@@ -8,3 +8,4 @@ Shanghai
 Hong Kong
 Taiwan
 New York
+Vancouver
