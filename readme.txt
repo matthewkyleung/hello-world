@@ -9,3 +9,5 @@ Hong Kong
 Taiwan
 New York
 Vancouver
+Korea
+Samsung
