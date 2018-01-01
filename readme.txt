@@ -7,3 +7,4 @@ Photos
 Shanghai
 Hong Kong
 Taiwan
+New York
